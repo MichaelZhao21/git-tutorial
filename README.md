@@ -4,5 +4,5 @@ See [slide deck](https://docs.google.com/presentation/d/1nkmfVNscUenjbnpbWc3dseN
 
 Change this file to add your name (and any other text) below:
 
-- Michael!
+- Michael is cool!
 
